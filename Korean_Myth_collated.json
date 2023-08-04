@@ -1,0 +1,35 @@
+{
+    "count": 4,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "id": "f89f5782-85ae-4be4-87ca-21abb49713c7",
+            "collectionId": "Korean",
+            "type": "Myth",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Korean/Korean_Myth/f89f5782-85ae-4be4-87ca-21abb49713c7/f89f5782-85ae-4be4-87ca-21abb49713c7_ko_Female.mp4"
+        },
+        {
+            "id": "742af314-9a64-40b8-8449-c29bfe60a311",
+            "collectionId": "Korean",
+            "type": "Myth",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Korean/Korean_Myth/742af314-9a64-40b8-8449-c29bfe60a311/742af314-9a64-40b8-8449-c29bfe60a311_ko_Male.mp4"
+        },
+        {
+            "id": "ca036e5f-3927-49ff-8a77-97ff3d8b20dc",
+            "collectionId": "Korean",
+            "type": "Myth",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Korean/Korean_Myth/ca036e5f-3927-49ff-8a77-97ff3d8b20dc/ca036e5f-3927-49ff-8a77-97ff3d8b20dc_ko_Female.mp4"
+        },
+        {
+            "id": "d47aee23-f01b-4a1b-89c9-d1da5fdaa742",
+            "collectionId": "Korean",
+            "type": "Myth",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Korean/Korean_Myth/d47aee23-f01b-4a1b-89c9-d1da5fdaa742/d47aee23-f01b-4a1b-89c9-d1da5fdaa742_ko_Female.mp4"
+        }
+    ]
+}
